@@ -39,8 +39,6 @@ Due Date: Check D2L for the submission deadline.
   - Automate your designed test cases using Selenium and add verification
     points to your scripts
 
-- Compare Selenium with Sikulix
-
 # 1 INTRODUCTION
 
 This lab includes two parts: Mutation Testing and GUI Testing.
@@ -210,8 +208,6 @@ You will also explore this alternative tool: Sikulix (http://sikulix.com/quickst
 
     2.  Submit your Selenium test scripts and provide all required files for running your scripts. Your test scripts should not be computer dependent and must be run on your TAs computer.
 
-        1.  The TA's will check  your Selenium test scripts in the recorded video as well.
-
 # 4 Evaluation Criteria
 
 ## 4.1 Lab report and Test suites (100%)
@@ -229,7 +225,7 @@ A portion of the grade for the lab report will be allocated to organization and 
 | A discussion on the effect of equivalent mutants on mutation score accuracy including a discussion on how equivalent mutants could be detected                    | 10  |
 | A discussion of how you improved the mutation score of the test suites. Your design strategy.                                                                     | 5   |
 | A discussion on the advantages and disadvantages of mutation testing                                                                                              | 5   |
-| **GUI Testing (48)**                                                                                                                                              |     |
+| **GUI Testing (40)**                                                                                                                                              |     |
 | Correctness and completeness of the Recorded test cases (at least 2 per group member)                                                                             | 10  |
 | Explain your test case design process                                                                                                                             | 10  |
 | Use of automated verification points in each script. If automated verification point is not used, provide valid reason                                            | 10  |
