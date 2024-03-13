@@ -204,11 +204,9 @@ You will also explore this alternative tool: Sikulix (http://sikulix.com/quickst
 
 5.  **Document** defects at the end of your report file, if you find any during test automation (Note: Given applications are almost stable, do not expect to find many defects in these applications. It is acceptable that students report no defects in this assignment).
 
-6.  **Compare** Selenium IDE with an alternative tool (Sikulix). You do not have to run your tests with this tool. Only report your experience with the tool and pros and cons of it compared to Selenium.
+6.  **Submission:**
 
-7.  **Submission:**
-
-    1.  Based on the experience that you had with Selenium and Sikulix, answer the questions in the template report file and submit it on GitHub.
+    1.  Based on the experience that you had with Selenium, answer the questions in the template report file and submit it on GitHub.
 
     2.  Submit your Selenium test scripts and provide all required files for running your scripts. Your test scripts should not be computer dependent and must be run on your TAs computer.
 
@@ -236,9 +234,9 @@ A portion of the grade for the lab report will be allocated to organization and 
 | Explain your test case design process                                                                                                                             | 10  |
 | Use of automated verification points in each script. If automated verification point is not used, provide valid reason                                            | 10  |
 | Use different test data per test. If not used, provide valid reason                                                                                               | 10  |
-| Discuss advantages and disadvantages of Selenium vs. Sikulix                                                                                                      | 8   |
-| **Other (2)**                                                                                                                                                     |     |
-| A discussion on how the team work/effort was divided and managed. Any lessons learned from your teamwork on this lab?                                             | 2   |
+| **Other (10)**                                                                                                                                                     |     |
+| A discussion on how the team work/effort was divided and managed. Any lessons learned from your teamwork on this lab?                                             | 5   |
+|Comments/feedback on the assignment itself  | 5   |
 
 # 5 REFERENCES
 
