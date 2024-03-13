@@ -11,12 +11,9 @@
 
 # Introduction
 
-
 # Analysis of 10 Mutants of the Range class 
 
 # Report all the statistics and the mutation score for each test class
-
-
 
 # Analysis drawn on the effectiveness of each of the test classes
 
@@ -32,11 +29,8 @@
 
 # how did you test each functionaity with different test data
 
-# Discuss advantages and disadvantages of Selenium vs. Sikulix
-
 # How the team work/effort was divided and managed
-
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-# Comments/feedback on the lab itself
+# Comments/feedback on the assignment itself
