@@ -12,7 +12,7 @@
 Due Date: Check D2L for the submission deadline.
 
 
-<span style="color:DarkCyan  ">**Due Date: March 17th 2023**
+<span style="color:DarkCyan  ">
 
 > **Summary:
 > Part 1:**
